@@ -1,9 +1,3 @@
-clone the repo
+This is a react native project which is essentially an independent clone of instagram. It uses react native with node.js.
 
-you need to have expo installed(Download their tools) .https://expo.io/   
-
-
-
-run npm install
-
-npm start.
+You can see this app working by running it on expo. 
